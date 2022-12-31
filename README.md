@@ -1,6 +1,9 @@
 # SpringBoot-CrudOperations
 Spring-Boot Crud operation with neat and clean Code. 
 
+Java version - 1.8
+platform used - STS
+
 
 EndPoints: - 
 
